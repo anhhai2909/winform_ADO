@@ -1,0 +1,14 @@
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\bin\Debug\net6.0\PRN211_BL5_TOPDOWN.exe
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\bin\Debug\net6.0\PRN211_BL5_TOPDOWN.deps.json
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\bin\Debug\net6.0\PRN211_BL5_TOPDOWN.runtimeconfig.json
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\bin\Debug\net6.0\PRN211_BL5_TOPDOWN.dll
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\bin\Debug\net6.0\PRN211_BL5_TOPDOWN.pdb
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\PRN211_BL5_TOPDOWN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\PRN211_BL5_TOPDOWN.AssemblyInfoInputs.cache
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\PRN211_BL5_TOPDOWN.AssemblyInfo.cs
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\PRN211_BL5_TOPDOWN.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\PRN211_BL5_TOPDOWN.dll
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\refint\PRN211_BL5_TOPDOWN.dll
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\PRN211_BL5_TOPDOWN.pdb
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\PRN211_BL5_TOPDOWN.genruntimeconfig.cache
+D:\Hoc_Tap\prn_c#\PRN211_BL5_TOPDOWN\obj\Debug\net6.0\ref\PRN211_BL5_TOPDOWN.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hoc_Tap\\prn_c#\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj": {}
+    "D:\\Hoc_Tap\\New folder\\winform_ADO\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj": {}
   },
   "projects": {
-    "D:\\Hoc_Tap\\prn_c#\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj": {
+    "D:\\Hoc_Tap\\New folder\\winform_ADO\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoc_Tap\\prn_c#\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj",
+        "projectUniqueName": "D:\\Hoc_Tap\\New folder\\winform_ADO\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj",
         "projectName": "PRN211_BL5_TOPDOWN",
-        "projectPath": "D:\\Hoc_Tap\\prn_c#\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj",
+        "projectPath": "D:\\Hoc_Tap\\New folder\\winform_ADO\\PRN211_BL5_TOPDOWN\\PRN211_BL5_TOPDOWN.csproj",
         "packagesPath": "C:\\Users\\bao chau\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoc_Tap\\prn_c#\\PRN211_BL5_TOPDOWN\\obj\\",
+        "outputPath": "D:\\Hoc_Tap\\New folder\\winform_ADO\\PRN211_BL5_TOPDOWN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bao chau\\AppData\\Roaming\\NuGet\\NuGet.Config",
